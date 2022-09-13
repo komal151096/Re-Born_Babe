@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2648-C323
+
+ Directory of C:\Users\in02179\Desktop\MyProject
+
+14-09-2022  00:14    <DIR>          .
+14-09-2022  00:14    <DIR>          ..
+14-09-2022  00:14                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,814,341,120 bytes free
